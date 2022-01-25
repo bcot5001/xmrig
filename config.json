@@ -101,7 +101,7 @@
     "verbose": 0,
     "watch": true,
     "rebench-algo": false,
-    "bench-algo-time": 3,
+    "bench-algo-time": 15,
     "pause-on-battery": false,
     "pause-on-active": false
 }
